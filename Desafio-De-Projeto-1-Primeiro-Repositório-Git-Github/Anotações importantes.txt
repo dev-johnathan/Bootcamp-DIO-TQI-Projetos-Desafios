@@ -1,0 +1,3 @@
+Embora tenha criado um outro repositorio acompanhando o professor no video,
+preferi criar um novo do zero, assim colocando em pratica o que aprendi em aula.
+Acredito que seja melhor assim para projetos futuros.
